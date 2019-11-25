@@ -119,7 +119,6 @@ class Model {
       text: linkText
     };
 
-    this.addMessage = this.createElement("div");
     this.links.push(link);
 
     this._commit(this.links);
