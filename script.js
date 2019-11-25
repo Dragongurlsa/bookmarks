@@ -136,11 +136,12 @@ function validateLink(url) {
   return true;
 }
 
-//medium.com/@bryanmanuele/how-i-implemented-my-own-spa-routing-system-in-vanilla-js-49942e3c4573
+/*
 https: routes = {
   "/": homePage,
   "/results": resultsPage
 };
+*/
 
 /**
  * @class View
